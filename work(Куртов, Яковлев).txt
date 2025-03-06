@@ -1,1 +1,1 @@
-https://byfhiknyjvvzyqtorwvu.supabase.co/rest/v1/Student?id=eq.1
+https://byfhiknyjvvzyqtorwvu.supabase.co/rest/v1/Grades?grade=gt.3
