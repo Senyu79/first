@@ -1,0 +1,1 @@
+https://byfhiknyjvvzyqtorwvu.supabase.co/rest/v1/Grades?id=eq.2
